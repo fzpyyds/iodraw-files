@@ -157,6 +157,11 @@
         <mxCell id="O_o6dWoYP96GddzC7YKf-60" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="660" y="220" width="8" height="8" as="geometry" />
         </mxCell>
+        <mxCell id="O_o6dWoYP96GddzC7YKf-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="O_o6dWoYP96GddzC7YKf-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="373" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="O_o6dWoYP96GddzC7YKf-61" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;" vertex="1" parent="1">
           <mxGeometry x="230" y="305" width="111" height="135" as="geometry" />
         </mxCell>
