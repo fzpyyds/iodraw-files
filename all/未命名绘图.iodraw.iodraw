@@ -22,8 +22,14 @@
         <mxCell id="4Dv4TwERY899WbZpKk9r-4" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Tahoma&quot;&gt;有效观测筛选&lt;/font&gt;&lt;/code&gt;&lt;/pre&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="-990" width="200" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="4Dv4TwERY899WbZpKk9r-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4Dv4TwERY899WbZpKk9r-6" target="4Dv4TwERY899WbZpKk9r-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4Dv4TwERY899WbZpKk9r-6" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Tahoma&quot;&gt;多源特征提取&lt;/font&gt;&lt;/code&gt;&lt;/pre&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="-920" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4Dv4TwERY899WbZpKk9r-8" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="-810" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
