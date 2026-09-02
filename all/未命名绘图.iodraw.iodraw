@@ -50,7 +50,7 @@
           <mxGeometry x="260" y="310" width="170" height="170" as="geometry" />
         </mxCell>
         <mxCell id="O_o6dWoYP96GddzC7YKf-17" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;" vertex="1" parent="1">
-          <mxGeometry x="570" y="168" width="80" height="119" as="geometry" />
+          <mxGeometry x="520" y="168" width="80" height="119" as="geometry" />
         </mxCell>
         <mxCell id="O_o6dWoYP96GddzC7YKf-19" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Tahoma&quot;&gt;轨迹速度预测&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="572.5" y="180" width="75" height="30" as="geometry" />
