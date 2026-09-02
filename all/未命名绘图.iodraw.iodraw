@@ -161,7 +161,7 @@
           <mxGeometry x="251" y="305" width="90" height="120" as="geometry" />
         </mxCell>
         <mxCell id="O_o6dWoYP96GddzC7YKf-62" value="运动补偿后的轨迹位置" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="260" y="370" width="60" height="30" as="geometry" />
+          <mxGeometry x="251" y="310" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
