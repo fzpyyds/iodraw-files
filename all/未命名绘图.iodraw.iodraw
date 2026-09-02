@@ -160,7 +160,7 @@
         <mxCell id="O_o6dWoYP96GddzC7YKf-61" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;" vertex="1" parent="1">
           <mxGeometry x="230" y="305" width="111" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="O_o6dWoYP96GddzC7YKf-62" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Tahoma&quot;&gt;运动补偿后的轨迹位置&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="O_o6dWoYP96GddzC7YKf-62" value="&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Tahoma&quot;&gt;运动补偿后的轨迹位置&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="235" y="314" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="O_o6dWoYP96GddzC7YKf-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="O_o6dWoYP96GddzC7YKf-62" target="O_o6dWoYP96GddzC7YKf-62">
