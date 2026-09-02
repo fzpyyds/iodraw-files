@@ -104,7 +104,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4Dv4TwERY899WbZpKk9r-55" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Tahoma&quot;&gt;关系上下文&lt;br&gt;特征输出&lt;/font&gt;&lt;/code&gt;&lt;/pre&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="499" y="-700" width="80" height="50" as="geometry" />
+          <mxGeometry x="490" y="-700" width="89" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
