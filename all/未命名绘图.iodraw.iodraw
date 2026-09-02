@@ -103,6 +103,12 @@
         <mxCell id="O_o6dWoYP96GddzC7YKf-39" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="498" y="432" width="8" height="8" as="geometry" />
         </mxCell>
+        <mxCell id="O_o6dWoYP96GddzC7YKf-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="708.25" y="379" as="sourcePoint" />
+            <mxPoint x="673.25" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="O_o6dWoYP96GddzC7YKf-41" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="510" y="414" width="8" height="8" as="geometry" />
         </mxCell>
