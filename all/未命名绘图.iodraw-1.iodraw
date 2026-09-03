@@ -92,10 +92,10 @@
           <mxGeometry x="1010" y="238" width="109" height="90" as="geometry" />
         </mxCell>
         <mxCell id="l2ElmK3oiGmIzIgTUKdz-34" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="831" y="249" width="109" height="90" as="geometry" />
+          <mxGeometry x="831" y="358" width="109" height="90" as="geometry" />
         </mxCell>
         <mxCell id="l2ElmK3oiGmIzIgTUKdz-35" value="规则复核" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="1">
-          <mxGeometry x="855.5" y="249" width="60" height="30" as="geometry" />
+          <mxGeometry x="1034.5" y="238" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
