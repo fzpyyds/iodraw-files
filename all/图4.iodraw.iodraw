@@ -64,14 +64,6 @@
         <mxCell id="4Dv4TwERY899WbZpKk9r-15" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code style=&quot;font-size: 16px;&quot;&gt;&lt;font color=&quot;#ff7700&quot; style=&quot;font-size: 16px;&quot; face=&quot;Tahoma&quot;&gt;低尾/高尾&lt;br&gt;统计特征&lt;/font&gt;&lt;/code&gt;&lt;/pre&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#FF7700;" parent="1" vertex="1">
           <mxGeometry x="514" y="-830" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="UsNx9d4V8jQKVmMxtn0I-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Dv4TwERY899WbZpKk9r-17" target="UsNx9d4V8jQKVmMxtn0I-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="451" y="-768" />
-              <mxPoint x="414" y="-768" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="4Dv4TwERY899WbZpKk9r-17" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code style=&quot;font-size: 16px;&quot;&gt;&lt;font color=&quot;#ff7700&quot; style=&quot;font-size: 16px;&quot; face=&quot;Tahoma&quot;&gt;鱼群&lt;br&gt;关系特征&lt;/font&gt;&lt;/code&gt;&lt;/pre&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#FF7700;" parent="1" vertex="1">
           <mxGeometry x="411" y="-830" width="80" height="50" as="geometry" />
         </mxCell>
@@ -133,10 +125,10 @@
           <mxGeometry x="499" y="-510" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UsNx9d4V8jQKVmMxtn0I-2" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;&lt;font color=&quot;#ff7700&quot; style=&quot;font-size: 16px;&quot; face=&quot;Tahoma&quot;&gt;局部&lt;br&gt;关系特征&lt;/font&gt;&lt;/code&gt;&lt;/pre&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#FF7700;" vertex="1" parent="1">
-          <mxGeometry x="373.5" y="-750" width="80" height="50" as="geometry" />
+          <mxGeometry x="366.5" y="-750" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UsNx9d4V8jQKVmMxtn0I-3" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;&lt;font color=&quot;#ff7700&quot; face=&quot;Tahoma&quot; style=&quot;font-size: 16px;&quot;&gt;鱼群上&lt;br&gt;下文特征&lt;/font&gt;&lt;/code&gt;&lt;/pre&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#FF7700;" vertex="1" parent="1">
-          <mxGeometry x="466" y="-750" width="80" height="50" as="geometry" />
+          <mxGeometry x="459" y="-750" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UsNx9d4V8jQKVmMxtn0I-4" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code style=&quot;font-size: 16px;&quot;&gt;&lt;font color=&quot;#ff7700&quot; style=&quot;font-size: 16px;&quot; face=&quot;Tahoma&quot;&gt;低尾/高尾&lt;br&gt;统计特征&lt;/font&gt;&lt;/code&gt;&lt;/pre&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#FF7700;" vertex="1" parent="1">
           <mxGeometry x="774" y="-739" width="80" height="50" as="geometry" />
