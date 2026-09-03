@@ -16,7 +16,7 @@
         <mxCell id="l2ElmK3oiGmIzIgTUKdz-2" value="&lt;font face=&quot;Tahoma&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;多分类器软投票&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="240" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="l2ElmK3oiGmIzIgTUKdz-4" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="l2ElmK3oiGmIzIgTUKdz-4" value="" style="whiteSpace=wrap;html=1;rounded=1;arcSize=10;" vertex="1" parent="1">
           <mxGeometry x="360" y="180" width="320" height="180" as="geometry" />
         </mxCell>
         <mxCell id="l2ElmK3oiGmIzIgTUKdz-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -56,7 +56,7 @@
           <mxGeometry x="574.25" y="285" width="87.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l2ElmK3oiGmIzIgTUKdz-21" value="&lt;font face=&quot;Tahoma&quot; style=&quot;font-size: 16px;&quot;&gt;多源异常评分&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="469" y="187" width="102" height="30" as="geometry" />
+          <mxGeometry x="466" y="185" width="102" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
