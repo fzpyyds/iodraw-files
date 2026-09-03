@@ -338,7 +338,7 @@
         <mxCell id="YBdZFE3lvRGORyUR-swT-44" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;&lt;font face=&quot;Tahoma&quot; style=&quot;font-size: 15px;&quot;&gt;历史轨迹&lt;br&gt;末帧特征&lt;/font&gt;&lt;/code&gt;&lt;/pre&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="713" y="479" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YBdZFE3lvRGORyUR-swT-45" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;" vertex="1" parent="1">
+        <mxCell id="YBdZFE3lvRGORyUR-swT-45" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeColor=#009900;" vertex="1" parent="1">
           <mxGeometry x="812" y="467" width="90" height="52" as="geometry" />
         </mxCell>
         <mxCell id="YBdZFE3lvRGORyUR-swT-46" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;&lt;font face=&quot;Tahoma&quot; style=&quot;font-size: 15px;&quot;&gt;更新轨迹&lt;br&gt;记忆&lt;/font&gt;&lt;/code&gt;&lt;/pre&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
