@@ -92,7 +92,7 @@
           <mxGeometry x="871" y="221" width="109" height="102" as="geometry" />
         </mxCell>
         <mxCell id="l2ElmK3oiGmIzIgTUKdz-34" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="229" width="109" height="90" as="geometry" />
+          <mxGeometry x="1010" y="220" width="109" height="99" as="geometry" />
         </mxCell>
         <mxCell id="l2ElmK3oiGmIzIgTUKdz-35" value="&lt;span style=&quot;color: rgb(63, 63, 70); font-size: 14px; text-align: start; white-space: pre-wrap; background-color: rgba(255, 255, 255, 0.9);&quot;&gt;&lt;font face=&quot;Tahoma&quot;&gt;关系—时序复核&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="1">
           <mxGeometry x="872" y="221" width="105.5" height="32" as="geometry" />
@@ -106,7 +106,7 @@
           <mxGeometry x="848.5" y="271" width="131" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l2ElmK3oiGmIzIgTUKdz-38" value="&lt;span style=&quot;color: rgb(63, 63, 70); font-size: 14px; text-align: start; white-space: pre-wrap; background-color: rgba(255, 255, 255, 0.9);&quot;&gt;&lt;font face=&quot;Tahoma&quot;&gt;最终异常结果&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="1">
-          <mxGeometry x="1011.75" y="232" width="105.5" height="32" as="geometry" />
+          <mxGeometry x="1011.75" y="250" width="105.5" height="14" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
