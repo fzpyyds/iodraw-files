@@ -128,13 +128,13 @@
           <mxGeometry x="499" y="-510" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UsNx9d4V8jQKVmMxtn0I-2" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code style=&quot;font-size: 16px;&quot;&gt;&lt;font color=&quot;#ff7700&quot; style=&quot;font-size: 16px;&quot; face=&quot;Tahoma&quot;&gt;鱼群&lt;br&gt;关系特征&lt;/font&gt;&lt;/code&gt;&lt;/pre&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#FF7700;" vertex="1" parent="1">
-          <mxGeometry x="441" y="-764" width="80" height="50" as="geometry" />
+          <mxGeometry x="389" y="-770" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UsNx9d4V8jQKVmMxtn0I-3" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code style=&quot;font-size: 16px;&quot;&gt;&lt;font color=&quot;#ff7700&quot; style=&quot;font-size: 16px;&quot; face=&quot;Tahoma&quot;&gt;鱼群&lt;br&gt;关系特征&lt;/font&gt;&lt;/code&gt;&lt;/pre&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#FF7700;" vertex="1" parent="1">
           <mxGeometry x="555" y="-764" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UsNx9d4V8jQKVmMxtn0I-4" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code style=&quot;font-size: 16px;&quot;&gt;&lt;font color=&quot;#ff7700&quot; style=&quot;font-size: 16px;&quot; face=&quot;Tahoma&quot;&gt;低尾/高尾&lt;br&gt;统计特征&lt;/font&gt;&lt;/code&gt;&lt;/pre&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#FF7700;" vertex="1" parent="1">
-          <mxGeometry x="696" y="-865" width="80" height="50" as="geometry" />
+          <mxGeometry x="478" y="-767" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
