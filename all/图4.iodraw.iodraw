@@ -154,8 +154,8 @@
         </mxCell>
         <mxCell id="UsNx9d4V8jQKVmMxtn0I-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="416" y="-690" as="sourcePoint" />
-            <mxPoint x="346" y="-645" as="targetPoint" />
+            <mxPoint x="256" y="-691" as="sourcePoint" />
+            <mxPoint x="186" y="-646" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
