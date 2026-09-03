@@ -262,8 +262,8 @@
         <mxCell id="YBdZFE3lvRGORyUR-swT-14" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Tahoma&quot;&gt;相对空间关系编码流程&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="306.25" y="319" width="163" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YBdZFE3lvRGORyUR-swT-16" value="HyperMotion核心流程" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="500" y="270" width="60" height="30" as="geometry" />
+        <mxCell id="YBdZFE3lvRGORyUR-swT-16" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Tahoma&quot;&gt;HyperMotion核心流程&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="270" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
