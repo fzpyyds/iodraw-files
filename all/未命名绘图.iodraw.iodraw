@@ -344,7 +344,7 @@
         <mxCell id="YBdZFE3lvRGORyUR-swT-46" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;&lt;font face=&quot;Tahoma&quot; style=&quot;font-size: 15px;&quot;&gt;更新轨迹&lt;br&gt;记忆&lt;/font&gt;&lt;/code&gt;&lt;/pre&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="827" y="479" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YBdZFE3lvRGORyUR-swT-48" value="&lt;font color=&quot;#ff7700&quot; style=&quot;font-size: 16px;&quot; face=&quot;Tahoma&quot;&gt;正向SRGA&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="YBdZFE3lvRGORyUR-swT-48" value="&lt;font color=&quot;#ff7700&quot; style=&quot;font-size: 16px;&quot; face=&quot;Tahoma&quot;&gt;&lt;b&gt;正向SRGA&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="705.5" y="328" width="79" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YBdZFE3lvRGORyUR-swT-50" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Tahoma&quot;&gt;反向SRGA&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
