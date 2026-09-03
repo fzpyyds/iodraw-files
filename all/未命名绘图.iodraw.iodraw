@@ -358,7 +358,7 @@
           <mxGeometry x="751.5" y="414" width="79" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YBdZFE3lvRGORyUR-swT-59" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="1">
-          <mxGeometry x="936" y="192" width="110" height="70" as="geometry" />
+          <mxGeometry x="943" y="199" width="96" height="62" as="geometry" />
         </mxCell>
         <mxCell id="YBdZFE3lvRGORyUR-swT-60" value="&lt;font face=&quot;Tahoma&quot; style=&quot;font-size: 16px;&quot;&gt;双向增强关联特征&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="955.5" y="209.5" width="71" height="35" as="geometry" />
