@@ -150,7 +150,7 @@
           <mxGeometry x="774" y="-739" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UsNx9d4V8jQKVmMxtn0I-12" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Tahoma&quot;&gt;AAS输入特征集&lt;/font&gt;&lt;/code&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="-658" width="126" height="40" as="geometry" />
+          <mxGeometry x="370" y="-658" width="118" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
