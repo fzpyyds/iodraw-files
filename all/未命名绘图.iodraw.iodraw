@@ -290,11 +290,17 @@
         <mxCell id="YBdZFE3lvRGORyUR-swT-30" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Tahoma&quot;&gt;历史轨迹&lt;br&gt;特征&lt;/font&gt;&lt;/code&gt;&lt;/pre&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="739" y="190" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="YBdZFE3lvRGORyUR-swT-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YBdZFE3lvRGORyUR-swT-31" target="YBdZFE3lvRGORyUR-swT-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YBdZFE3lvRGORyUR-swT-31" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;" vertex="1" parent="1">
           <mxGeometry x="836" y="178" width="90" height="52" as="geometry" />
         </mxCell>
         <mxCell id="YBdZFE3lvRGORyUR-swT-33" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Tahoma&quot;&gt;当前待关联&lt;br&gt;目标特征&lt;/font&gt;&lt;/code&gt;&lt;/pre&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="851" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YBdZFE3lvRGORyUR-swT-36" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1006" y="178" width="90" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
