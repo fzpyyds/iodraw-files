@@ -25,13 +25,8 @@
         <mxCell id="l2ElmK3oiGmIzIgTUKdz-4" value="" style="whiteSpace=wrap;html=1;rounded=1;arcSize=10;" vertex="1" parent="1">
           <mxGeometry x="265" y="180" width="320" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="l2ElmK3oiGmIzIgTUKdz-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="l2ElmK3oiGmIzIgTUKdz-6" target="l2ElmK3oiGmIzIgTUKdz-23">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="321" y="420" />
-              <mxPoint x="655" y="420" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="l2ElmK3oiGmIzIgTUKdz-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="l2ElmK3oiGmIzIgTUKdz-6" target="l2ElmK3oiGmIzIgTUKdz-23">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l2ElmK3oiGmIzIgTUKdz-6" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=11;" vertex="1" parent="1">
           <mxGeometry x="484" y="222" width="89" height="127" as="geometry" />
@@ -57,7 +52,7 @@
         <mxCell id="l2ElmK3oiGmIzIgTUKdz-14" value="&lt;span style=&quot;color: rgb(63, 63, 70); text-align: start; white-space: pre-wrap; background-color: rgba(255, 255, 255, 0.9);&quot;&gt;&lt;font face=&quot;Tahoma&quot; style=&quot;font-size: 12px;&quot;&gt;用于提供运动、形态和统计辅助证据，参与弱证据复核&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280.25" y="278" width="90.75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="l2ElmK3oiGmIzIgTUKdz-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="l2ElmK3oiGmIzIgTUKdz-15" target="l2ElmK3oiGmIzIgTUKdz-24">
+        <mxCell id="l2ElmK3oiGmIzIgTUKdz-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="l2ElmK3oiGmIzIgTUKdz-15" target="l2ElmK3oiGmIzIgTUKdz-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l2ElmK3oiGmIzIgTUKdz-15" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;" vertex="1" parent="1">
