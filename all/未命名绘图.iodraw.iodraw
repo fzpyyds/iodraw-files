@@ -5,7 +5,12 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="YBdZFE3lvRGORyUR-swT-56" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="10" y="118" width="951" height="393" as="geometry" />
+          <mxGeometry x="6" y="118" width="951" height="393" as="geometry" />
+        </mxCell>
+        <mxCell id="YBdZFE3lvRGORyUR-swT-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="YBdZFE3lvRGORyUR-swT-56" source="YBdZFE3lvRGORyUR-swT-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="994" y="142" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="YBdZFE3lvRGORyUR-swT-49" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="YBdZFE3lvRGORyUR-swT-56">
           <mxGeometry x="621" y="296" width="330" height="97" as="geometry" />
