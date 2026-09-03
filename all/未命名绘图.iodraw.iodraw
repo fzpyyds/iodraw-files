@@ -298,7 +298,7 @@
         <mxCell id="YBdZFE3lvRGORyUR-swT-16" value="&lt;font color=&quot;#3333ff&quot; style=&quot;font-size: 16px;&quot; face=&quot;Tahoma&quot;&gt;&lt;b style=&quot;&quot;&gt;HyperMotion核心流程&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="118" width="178.25" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YBdZFE3lvRGORyUR-swT-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.001;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=blockThin;endFill=1;" edge="1" parent="1" source="YBdZFE3lvRGORyUR-swT-15" target="YBdZFE3lvRGORyUR-swT-13">
+        <mxCell id="YBdZFE3lvRGORyUR-swT-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.001;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=blockThin;endFill=1;strokeWidth=0;" edge="1" parent="1" source="YBdZFE3lvRGORyUR-swT-15" target="YBdZFE3lvRGORyUR-swT-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="616" y="209" />
