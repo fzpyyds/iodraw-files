@@ -17,7 +17,13 @@
           <mxGeometry x="170.5" y="118" width="435.5" height="181" as="geometry" />
         </mxCell>
         <mxCell id="YBdZFE3lvRGORyUR-swT-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YBdZFE3lvRGORyUR-swT-13" target="YBdZFE3lvRGORyUR-swT-47">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="420" />
+              <mxPoint x="503" y="420" />
+              <mxPoint x="503" y="375" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="YBdZFE3lvRGORyUR-swT-13" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;strokeColor=#0066CC;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="171.5" y="338" width="308.5" height="181" as="geometry" />
