@@ -16,9 +16,10 @@
         <mxCell id="l2ElmK3oiGmIzIgTUKdz-2" value="&lt;font face=&quot;Tahoma&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;多分类器软投票&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="158" y="240" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="l2ElmK3oiGmIzIgTUKdz-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=blockThin;endFill=1;" edge="1" parent="1" source="l2ElmK3oiGmIzIgTUKdz-4">
+        <mxCell id="l2ElmK3oiGmIzIgTUKdz-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=blockThin;endFill=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="615" y="270" as="targetPoint" />
+            <mxPoint x="614" y="270" as="targetPoint" />
+            <mxPoint x="584" y="270" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="l2ElmK3oiGmIzIgTUKdz-4" value="" style="whiteSpace=wrap;html=1;rounded=1;arcSize=10;" vertex="1" parent="1">
@@ -33,16 +34,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="l2ElmK3oiGmIzIgTUKdz-6" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=11;" vertex="1" parent="1">
-          <mxGeometry x="571" y="222" width="89" height="127" as="geometry" />
+          <mxGeometry x="570" y="222" width="89" height="127" as="geometry" />
         </mxCell>
         <mxCell id="l2ElmK3oiGmIzIgTUKdz-7" value="&lt;font face=&quot;Tahoma&quot; style=&quot;font-size: 12px;&quot;&gt;TAS:&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Tahoma&quot; style=&quot;font-size: 12px;&quot;&gt;轨迹主&lt;/font&gt;&lt;span style=&quot;font-family: Tahoma; background-color: initial;&quot;&gt;异常评分&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="569" y="229" width="93" height="20" as="geometry" />
+          <mxGeometry x="568" y="229" width="93" height="20" as="geometry" />
         </mxCell>
         <mxCell id="l2ElmK3oiGmIzIgTUKdz-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="l2ElmK3oiGmIzIgTUKdz-7" target="l2ElmK3oiGmIzIgTUKdz-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l2ElmK3oiGmIzIgTUKdz-10" value="&lt;span style=&quot;color: rgb(63, 63, 70); text-align: start; white-space: pre-wrap; background-color: rgba(255, 255, 255, 0.9);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Tahoma&quot;&gt;用于初始异常判断&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="585.5" y="274" width="60" height="30" as="geometry" />
+          <mxGeometry x="584.5" y="274" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l2ElmK3oiGmIzIgTUKdz-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="l2ElmK3oiGmIzIgTUKdz-11" target="l2ElmK3oiGmIzIgTUKdz-24">
           <mxGeometry relative="1" as="geometry">
@@ -53,31 +54,31 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="l2ElmK3oiGmIzIgTUKdz-11" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=9;" vertex="1" parent="1">
-          <mxGeometry x="372" y="222" width="94" height="127" as="geometry" />
+          <mxGeometry x="277" y="222" width="94" height="127" as="geometry" />
         </mxCell>
         <mxCell id="l2ElmK3oiGmIzIgTUKdz-12" value="&lt;span style=&quot;color: rgb(63, 63, 70); text-align: start; white-space: pre-wrap; background-color: rgba(255, 255, 255, 0.9);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Tahoma&quot;&gt;AAS：&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 70); text-align: start; white-space: pre-wrap; background-color: rgba(255, 255, 255, 0.9);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Tahoma&quot;&gt;辅助异常评分&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="370" y="229" width="93" height="20" as="geometry" />
+          <mxGeometry x="275" y="229" width="93" height="20" as="geometry" />
         </mxCell>
         <mxCell id="l2ElmK3oiGmIzIgTUKdz-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="l2ElmK3oiGmIzIgTUKdz-12" target="l2ElmK3oiGmIzIgTUKdz-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l2ElmK3oiGmIzIgTUKdz-14" value="&lt;span style=&quot;color: rgb(63, 63, 70); text-align: start; white-space: pre-wrap; background-color: rgba(255, 255, 255, 0.9);&quot;&gt;&lt;font face=&quot;Tahoma&quot; style=&quot;font-size: 12px;&quot;&gt;用于提供运动、形态和统计辅助证据，参与弱证据复核&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="375.25" y="278" width="90.75" height="30" as="geometry" />
+          <mxGeometry x="280.25" y="278" width="90.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l2ElmK3oiGmIzIgTUKdz-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="l2ElmK3oiGmIzIgTUKdz-15" target="l2ElmK3oiGmIzIgTUKdz-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l2ElmK3oiGmIzIgTUKdz-15" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;" vertex="1" parent="1">
-          <mxGeometry x="473" y="223" width="99" height="126" as="geometry" />
+          <mxGeometry x="378" y="223" width="99" height="126" as="geometry" />
         </mxCell>
         <mxCell id="l2ElmK3oiGmIzIgTUKdz-16" value="&lt;span style=&quot;color: rgb(63, 63, 70); text-align: start; white-space: pre-wrap; background-color: rgba(255, 255, 255, 0.9);&quot;&gt;&lt;font face=&quot;Tahoma&quot; style=&quot;font-size: 12px;&quot;&gt;BAS：&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 70); text-align: start; white-space: pre-wrap; background-color: rgba(255, 255, 255, 0.9);&quot;&gt;&lt;font face=&quot;Tahoma&quot; style=&quot;font-size: 12px;&quot;&gt;腹部外观评分&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="478" y="230" width="93" height="20" as="geometry" />
+          <mxGeometry x="383" y="230" width="93" height="20" as="geometry" />
         </mxCell>
         <mxCell id="l2ElmK3oiGmIzIgTUKdz-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="l2ElmK3oiGmIzIgTUKdz-16" target="l2ElmK3oiGmIzIgTUKdz-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l2ElmK3oiGmIzIgTUKdz-18" value="&lt;span style=&quot;color: rgb(63, 63, 70); text-align: start; white-space: pre-wrap; background-color: rgba(255, 255, 255, 0.9);&quot;&gt;&lt;font face=&quot;Tahoma&quot; style=&quot;font-size: 12px;&quot;&gt;用于提供鱼体腹部外观异常证据，支持腹部外观补充判定和高置信保护&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="478.25" y="285" width="87.75" height="30" as="geometry" />
+          <mxGeometry x="383.25" y="285" width="87.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l2ElmK3oiGmIzIgTUKdz-21" value="&lt;font face=&quot;Tahoma&quot; style=&quot;font-size: 16px;&quot;&gt;多源异常评分&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="371" y="185" width="102" height="30" as="geometry" />
