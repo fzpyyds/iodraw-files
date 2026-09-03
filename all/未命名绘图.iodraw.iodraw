@@ -360,7 +360,7 @@
         <mxCell id="YBdZFE3lvRGORyUR-swT-59" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="1">
           <mxGeometry x="932" y="169" width="118" height="91" as="geometry" />
         </mxCell>
-        <mxCell id="YBdZFE3lvRGORyUR-swT-60" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="YBdZFE3lvRGORyUR-swT-60" value="双向增强关联特征" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="820" y="390" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
