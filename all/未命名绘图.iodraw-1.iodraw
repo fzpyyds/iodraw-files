@@ -80,13 +80,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="l2ElmK3oiGmIzIgTUKdz-24" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="821" y="237" width="109" height="90" as="geometry" />
+          <mxGeometry x="821" y="226" width="109" height="90" as="geometry" />
         </mxCell>
         <mxCell id="l2ElmK3oiGmIzIgTUKdz-26" value="&lt;font face=&quot;Tahoma&quot; style=&quot;font-size: 14px;&quot;&gt;规则复核&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="1">
-          <mxGeometry x="840" y="237" width="65.5" height="30" as="geometry" />
+          <mxGeometry x="840" y="226" width="65.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l2ElmK3oiGmIzIgTUKdz-27" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(63, 63, 70); white-space: pre-wrap; background-color: rgba(255, 255, 255, 0.9);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Tahoma&quot;&gt;高置信保护&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(63, 63, 70); white-space: pre-wrap; background-color: rgba(255, 255, 255, 0.9);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Tahoma&quot;&gt;腹部外观找回&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(63, 63, 70); white-space: pre-wrap; background-color: rgba(255, 255, 255, 0.9);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Tahoma&quot;&gt;弱证据误报否决&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="799" y="278" width="131" height="30" as="geometry" />
+          <mxGeometry x="807.25" y="270" width="131" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l2ElmK3oiGmIzIgTUKdz-32" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="966" y="238" width="109" height="102" as="geometry" />
