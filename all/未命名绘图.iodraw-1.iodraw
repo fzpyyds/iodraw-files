@@ -23,7 +23,13 @@
           <mxGeometry x="371" y="203" width="89" height="117" as="geometry" />
         </mxCell>
         <mxCell id="l2ElmK3oiGmIzIgTUKdz-7" value="&lt;font face=&quot;Tahoma&quot; style=&quot;font-size: 12px;&quot;&gt;TAS:&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Tahoma&quot; style=&quot;font-size: 12px;&quot;&gt;轨迹主&lt;/font&gt;&lt;span style=&quot;font-family: Tahoma; background-color: initial;&quot;&gt;异常评分&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="367" y="220" width="93" height="20" as="geometry" />
+          <mxGeometry x="369" y="210" width="93" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="l2ElmK3oiGmIzIgTUKdz-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="l2ElmK3oiGmIzIgTUKdz-7" target="l2ElmK3oiGmIzIgTUKdz-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l2ElmK3oiGmIzIgTUKdz-10" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="280" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
