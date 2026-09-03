@@ -47,7 +47,7 @@
           <mxGeometry x="561" y="204" width="99" height="117" as="geometry" />
         </mxCell>
         <mxCell id="l2ElmK3oiGmIzIgTUKdz-16" value="&lt;span style=&quot;color: rgb(63, 63, 70); text-align: start; white-space: pre-wrap; background-color: rgba(255, 255, 255, 0.9);&quot;&gt;&lt;font face=&quot;Tahoma&quot; style=&quot;font-size: 12px;&quot;&gt;BAS：&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 70); text-align: start; white-space: pre-wrap; background-color: rgba(255, 255, 255, 0.9);&quot;&gt;&lt;font face=&quot;Tahoma&quot; style=&quot;font-size: 12px;&quot;&gt;腹部外观评分&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="559" y="211" width="93" height="20" as="geometry" />
+          <mxGeometry x="567" y="211" width="93" height="20" as="geometry" />
         </mxCell>
         <mxCell id="l2ElmK3oiGmIzIgTUKdz-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="l2ElmK3oiGmIzIgTUKdz-16" target="l2ElmK3oiGmIzIgTUKdz-16">
           <mxGeometry relative="1" as="geometry" />
