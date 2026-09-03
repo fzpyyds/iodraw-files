@@ -71,14 +71,17 @@
         <mxCell id="l2ElmK3oiGmIzIgTUKdz-23" value="&lt;span style=&quot;color: rgb(63, 63, 70); font-family: &amp;quot;HarmonyOS Sans SC&amp;quot;, &amp;quot;Noto Sans SC&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, sans-serif; font-size: 14px; text-align: start; white-space: pre-wrap; background-color: rgba(255, 255, 255, 0.9);&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 70); text-align: start; white-space: pre-wrap; background-color: rgba(255, 255, 255, 0.9); font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Tahoma&quot;&gt;TAS初始&lt;/font&gt;&lt;/span&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;color: rgb(63, 63, 70); text-align: start; white-space: pre-wrap; background-color: rgba(255, 255, 255, 0.9);&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;zqyqX9BtxLceFtU-n3gL&quot;&gt;异常判断&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="240" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="l2ElmK3oiGmIzIgTUKdz-24" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="851" y="239" width="109" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="l2ElmK3oiGmIzIgTUKdz-26" value="规则复核" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="861" y="239" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="l2ElmK3oiGmIzIgTUKdz-27" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(63, 63, 70); white-space: pre-wrap; background-color: rgba(255, 255, 255, 0.9);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Tahoma&quot;&gt;高置信保护&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(63, 63, 70); white-space: pre-wrap; background-color: rgba(255, 255, 255, 0.9);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Tahoma&quot;&gt;腹部外观找回&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(63, 63, 70); white-space: pre-wrap; background-color: rgba(255, 255, 255, 0.9);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Tahoma&quot;&gt;弱证据误报否决&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="825.5" y="274" width="131" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l2ElmK3oiGmIzIgTUKdz-31" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="850" y="239" width="109" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="l2ElmK3oiGmIzIgTUKdz-24" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="l2ElmK3oiGmIzIgTUKdz-31">
+          <mxGeometry width="109" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="l2ElmK3oiGmIzIgTUKdz-26" value="规则复核" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="l2ElmK3oiGmIzIgTUKdz-31">
+          <mxGeometry x="10" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
