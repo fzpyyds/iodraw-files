@@ -13,7 +13,7 @@
         <mxCell id="SzHQvnrLmV7S4zquntRi-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SzHQvnrLmV7S4zquntRi-1" target="SzHQvnrLmV7S4zquntRi-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SzHQvnrLmV7S4zquntRi-1" value="基于历史轨迹与当前目标构建上下文身份预测输入，采用协同运动补偿、空间关系引导双向关联完成身份分配及轨迹维护，得到连续身份轨迹；" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="SzHQvnrLmV7S4zquntRi-1" value="基于历史轨迹与当前目标构建上下文身份预测输入，采用协同运动补偿、空间关系引导关联完成身份分配及轨迹维护，得到连续身份轨迹；" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="140" y="120" width="360" height="70" as="geometry" />
         </mxCell>
         <mxCell id="SzHQvnrLmV7S4zquntRi-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SzHQvnrLmV7S4zquntRi-3" target="SzHQvnrLmV7S4zquntRi-5" edge="1">
