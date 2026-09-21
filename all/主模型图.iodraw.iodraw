@@ -536,6 +536,9 @@
         <mxCell id="JfmD_gjltNVFwKiyb32D-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;ID Prediction head&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="990" y="351.08" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="JfmD_gjltNVFwKiyb32D-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="396" y="242" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
