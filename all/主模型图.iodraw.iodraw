@@ -48,7 +48,7 @@
         <mxCell id="ndMLHOAJyYuL2xWaeHbx-75" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;&lt;b&gt;DETR&lt;/b&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;labelBorderColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="184.00496688741723" y="353.42105263157896" width="107.68211920529802" height="31.578947368421055" as="geometry" />
         </mxCell>
-        <mxCell id="XlCED7R_cnVObJIQTLFg-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=oval;endFill=1;" parent="1" source="ndMLHOAJyYuL2xWaeHbx-100" edge="1">
+        <mxCell id="XlCED7R_cnVObJIQTLFg-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=blockThin;endFill=1;" parent="1" source="ndMLHOAJyYuL2xWaeHbx-100" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="515" y="280" as="targetPoint" />
             <Array as="points">
@@ -202,7 +202,7 @@
         <mxCell id="XlCED7R_cnVObJIQTLFg-31" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;font face=&quot;Tahoma&quot;&gt;Current Detection&lt;br&gt;Tokens (Q)&lt;/font&gt;&lt;/pre&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="432" y="278" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XlCED7R_cnVObJIQTLFg-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=oval;endFill=1;" parent="1" source="ndMLHOAJyYuL2xWaeHbx-98" edge="1">
+        <mxCell id="XlCED7R_cnVObJIQTLFg-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=blockThin;endFill=1;" parent="1" source="ndMLHOAJyYuL2xWaeHbx-98" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="531" y="254" as="targetPoint" />
             <Array as="points">
