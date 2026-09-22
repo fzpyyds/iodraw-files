@@ -329,7 +329,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XlCED7R_cnVObJIQTLFg-67" value="&lt;pre style=&quot;font-size: 11px;&quot; dir=&quot;ltr&quot;&gt;&lt;font face=&quot;Tahoma&quot;&gt;Motion-compensated&lt;br&gt;Historical Box&lt;/font&gt;&lt;/pre&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="674" y="278" width="60" height="30" as="geometry" />
+          <mxGeometry x="319" y="483" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XlCED7R_cnVObJIQTLFg-76" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="800" y="130" width="151.45000000000005" height="331" as="geometry" />
