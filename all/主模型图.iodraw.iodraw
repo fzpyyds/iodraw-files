@@ -921,7 +921,7 @@
         <mxCell id="JfmD_gjltNVFwKiyb32D-172" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=90;size=0.46483428596047816;" vertex="1" parent="1">
           <mxGeometry x="275.53" y="1065.42" width="20" height="266.93" as="geometry" />
         </mxCell>
-        <mxCell id="JfmD_gjltNVFwKiyb32D-176" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;arrowWidth=0.37815126050419884;arrowSize=0.48627235562193316;" vertex="1" parent="1">
+        <mxCell id="JfmD_gjltNVFwKiyb32D-176" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;arrowWidth=0.4780753885360933;arrowSize=0.42399470085450564;" vertex="1" parent="1">
           <mxGeometry x="643" y="1020" width="55" height="101" as="geometry" />
         </mxCell>
       </root>
