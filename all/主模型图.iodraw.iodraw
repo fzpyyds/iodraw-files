@@ -194,9 +194,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JfmD_gjltNVFwKiyb32D-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ndMLHOAJyYuL2xWaeHbx-139" target="ndMLHOAJyYuL2xWaeHbx-78" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="ndMLHOAJyYuL2xWaeHbx-139" value="&lt;font size=&quot;1&quot; color=&quot;#0066cc&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;HyperMotion&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" parent="1" vertex="1">
           <mxGeometry x="638.8148" y="138.40076923076924" width="47.28000000000001" height="25.20230769230769" as="geometry" />
         </mxCell>
