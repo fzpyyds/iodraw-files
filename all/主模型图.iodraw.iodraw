@@ -191,7 +191,7 @@
           <mxGeometry x="549.8148" y="138.40076923076924" width="47.28000000000001" height="25.20230769230769" as="geometry" />
         </mxCell>
         <mxCell id="XlCED7R_cnVObJIQTLFg-11" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;&lt;font face=&quot;Tahoma&quot;&gt;Historical&lt;/font&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;br&gt;boxes/time/masks&lt;/font&gt;&lt;/code&gt;&lt;/pre&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="467" y="146.58" width="91" height="30" as="geometry" />
+          <mxGeometry x="388" y="142" width="91" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XlCED7R_cnVObJIQTLFg-20" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;font face=&quot;Tahoma&quot;&gt;Historical&lt;br&gt;Tokens (K, V)&lt;/font&gt;&lt;/pre&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="495" y="222.78999999999996" width="60" height="30" as="geometry" />
