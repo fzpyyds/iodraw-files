@@ -193,7 +193,7 @@
         <mxCell id="XlCED7R_cnVObJIQTLFg-26" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;font face=&quot;Tahoma&quot;&gt;Current Box&lt;/font&gt;&lt;/p&gt;&lt;/pre&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="440" y="364.00000000000006" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XlCED7R_cnVObJIQTLFg-31" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;font face=&quot;Tahoma&quot;&gt;Current&lt;br&gt;Tokens (Q)&lt;/font&gt;&lt;/pre&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="XlCED7R_cnVObJIQTLFg-31" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;font face=&quot;Tahoma&quot;&gt; Q&lt;/font&gt;&lt;/pre&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="640.4300000000001" y="280.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XlCED7R_cnVObJIQTLFg-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=blockThin;endFill=1;" parent="1" source="ndMLHOAJyYuL2xWaeHbx-98" target="ndMLHOAJyYuL2xWaeHbx-105" edge="1">
