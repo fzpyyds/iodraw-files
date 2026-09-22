@@ -190,13 +190,16 @@
         <mxCell id="ndMLHOAJyYuL2xWaeHbx-139" value="&lt;font size=&quot;1&quot; color=&quot;#0066cc&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;HyperMotion&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" parent="1" vertex="1">
           <mxGeometry x="549.8148" y="138.40076923076924" width="47.28000000000001" height="25.20230769230769" as="geometry" />
         </mxCell>
+        <mxCell id="XlCED7R_cnVObJIQTLFg-20" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;font face=&quot;Tahoma&quot;&gt;Historical&lt;br&gt;Tokens (K, V)&lt;/font&gt;&lt;/pre&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="495" y="213" width="60" height="9.79" as="geometry" />
+        </mxCell>
         <mxCell id="XlCED7R_cnVObJIQTLFg-26" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;font face=&quot;Tahoma&quot;&gt;Current Box&lt;/font&gt;&lt;/p&gt;&lt;/pre&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="440" y="364.00000000000006" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XlCED7R_cnVObJIQTLFg-31" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;font face=&quot;Tahoma&quot;&gt;Current&lt;br&gt;Tokens (Q)&lt;/font&gt;&lt;/pre&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="432" y="278" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XlCED7R_cnVObJIQTLFg-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=blockThin;endFill=1;" parent="1" source="XlCED7R_cnVObJIQTLFg-20" edge="1">
+        <mxCell id="XlCED7R_cnVObJIQTLFg-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=blockThin;endFill=1;" parent="1" source="ndMLHOAJyYuL2xWaeHbx-98" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="711" y="254" as="targetPoint" />
             <Array as="points">
@@ -495,16 +498,6 @@
             <mxPoint x="711" y="359" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="JfmD_gjltNVFwKiyb32D-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=blockThin;endFill=1;" edge="1" parent="1" source="ndMLHOAJyYuL2xWaeHbx-98" target="XlCED7R_cnVObJIQTLFg-20">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="711" y="254" as="targetPoint" />
-            <Array as="points" />
-            <mxPoint x="394" y="210" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XlCED7R_cnVObJIQTLFg-20" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;font face=&quot;Tahoma&quot;&gt;Historical&lt;br&gt;Tokens (K, V)&lt;/font&gt;&lt;/pre&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="630" y="237.75999999999996" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
