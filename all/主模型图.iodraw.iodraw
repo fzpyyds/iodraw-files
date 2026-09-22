@@ -488,7 +488,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XlCED7R_cnVObJIQTLFg-20" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;font face=&quot;Tahoma&quot;&gt;Historical&lt;br&gt;Tokens (K, V)&lt;/font&gt;&lt;/pre&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="628" y="251.21" width="60" height="9.79" as="geometry" />
+          <mxGeometry x="640.43" y="235" width="60" height="9.79" as="geometry" />
         </mxCell>
         <mxCell id="JfmD_gjltNVFwKiyb32D-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.007;entryY=0.38;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=blockThin;endFill=1;" edge="1" parent="1" source="ndMLHOAJyYuL2xWaeHbx-98" target="ndMLHOAJyYuL2xWaeHbx-78">
           <mxGeometry relative="1" as="geometry">
