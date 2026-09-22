@@ -193,7 +193,7 @@
         <mxCell id="XlCED7R_cnVObJIQTLFg-11" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;&lt;font face=&quot;Helvetica&quot;&gt;Trajectory boxes&lt;br&gt;/time/masks&lt;/font&gt;&lt;/code&gt;&lt;/pre&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="433" y="148" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XlCED7R_cnVObJIQTLFg-20" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;&lt;font face=&quot;Helvetica&quot;&gt;Trajectory tokens&lt;br&gt; (K/V)&lt;/font&gt;&lt;/code&gt;&lt;/pre&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="XlCED7R_cnVObJIQTLFg-20" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;font face=&quot;Tahoma&quot;&gt;Historical Trajectory Tokens (K, V)&lt;/font&gt;&lt;/pre&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="435" y="213.99999999999997" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XlCED7R_cnVObJIQTLFg-26" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;font face=&quot;Tahoma&quot;&gt;Current Detection Box&lt;/font&gt;&lt;/p&gt;&lt;/pre&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
