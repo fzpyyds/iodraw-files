@@ -633,7 +633,7 @@
           <mxGeometry x="266.9348" y="1232.4007692307691" width="47.28000000000001" height="25.20230769230769" as="geometry" />
         </mxCell>
         <mxCell id="JfmD_gjltNVFwKiyb32D-56" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;font face=&quot;Tahoma&quot;&gt;Current Box&lt;/font&gt;&lt;/p&gt;&lt;/pre&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="668" y="1323" width="60" height="30" as="geometry" />
+          <mxGeometry x="675" y="931" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JfmD_gjltNVFwKiyb32D-57" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;font face=&quot;Tahoma&quot;&gt; Q&lt;/font&gt;&lt;/pre&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="868.4300000000001" y="1234" width="60" height="30" as="geometry" />
@@ -720,7 +720,7 @@
           <mxGeometry x="150.69165214360405" y="1167" width="15.789473684210527" height="15.789473684210527" as="geometry" />
         </mxCell>
         <mxCell id="JfmD_gjltNVFwKiyb32D-89" value="&lt;pre style=&quot;font-size: 11px;&quot; dir=&quot;ltr&quot;&gt;&lt;font face=&quot;Tahoma&quot;&gt;Motion-compensated&lt;br&gt;Historical Box&lt;/font&gt;&lt;/pre&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="761" y="1231.32" width="60" height="39.68" as="geometry" />
+          <mxGeometry x="771.5" y="947" width="60" height="39.68" as="geometry" />
         </mxCell>
         <mxCell id="JfmD_gjltNVFwKiyb32D-90" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="939" y="1089" width="151.45000000000005" height="331" as="geometry" />
