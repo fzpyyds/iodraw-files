@@ -197,7 +197,7 @@
           <mxGeometry x="435" y="213.99999999999997" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XlCED7R_cnVObJIQTLFg-26" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;font face=&quot;Tahoma&quot;&gt;Current Detection Box&lt;/font&gt;&lt;/p&gt;&lt;/pre&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="436" y="383.00000000000006" width="60" height="30" as="geometry" />
+          <mxGeometry x="440" y="364.00000000000006" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XlCED7R_cnVObJIQTLFg-31" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;&lt;font face=&quot;Helvetica&quot;&gt;Current queries&lt;br&gt; (Q)&lt;/font&gt;&lt;/code&gt;&lt;/pre&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="432" y="278" width="60" height="30" as="geometry" />
