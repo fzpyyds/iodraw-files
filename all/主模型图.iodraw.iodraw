@@ -196,7 +196,7 @@
         <mxCell id="XlCED7R_cnVObJIQTLFg-20" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;font face=&quot;Tahoma&quot;&gt;Historical Trajectory&lt;br&gt;Tokens (K, V)&lt;/font&gt;&lt;/pre&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="495" y="222.78999999999996" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XlCED7R_cnVObJIQTLFg-26" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;font face=&quot;Tahoma&quot;&gt;Current Detection Box&lt;/font&gt;&lt;/p&gt;&lt;/pre&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="XlCED7R_cnVObJIQTLFg-26" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;font face=&quot;Tahoma&quot;&gt;Current Box&lt;/font&gt;&lt;/p&gt;&lt;/pre&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="440" y="364.00000000000006" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XlCED7R_cnVObJIQTLFg-31" value="&lt;pre dir=&quot;ltr&quot;&gt;&lt;font face=&quot;Tahoma&quot;&gt;Current Detection&lt;br&gt;Tokens (Q)&lt;/font&gt;&lt;/pre&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -310,7 +310,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XlCED7R_cnVObJIQTLFg-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=oval;endFill=1;" parent="1" source="ndMLHOAJyYuL2xWaeHbx-98" edge="1">
+        <mxCell id="XlCED7R_cnVObJIQTLFg-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" parent="1" source="ndMLHOAJyYuL2xWaeHbx-98" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="394" y="210" as="sourcePoint" />
             <mxPoint x="415" y="209.5" as="targetPoint" />
