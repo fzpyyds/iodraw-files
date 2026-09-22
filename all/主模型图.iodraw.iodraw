@@ -436,9 +436,6 @@
         <mxCell id="oDQqZpQaqvQCS4Z5IIwV-2" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#006666;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="570" y="316" width="185" height="101.58" as="geometry" />
         </mxCell>
-        <mxCell id="JfmD_gjltNVFwKiyb32D-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oDQqZpQaqvQCS4Z5IIwV-1" target="oDQqZpQaqvQCS4Z5IIwV-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="oDQqZpQaqvQCS4Z5IIwV-1" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="592.62" y="346" width="160" height="60" as="geometry" />
         </mxCell>
@@ -514,8 +511,13 @@
         <mxCell id="JfmD_gjltNVFwKiyb32D-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;ID Prediction head&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="990" y="351.08" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JfmD_gjltNVFwKiyb32D-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.004;entryY=0.696;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oDQqZpQaqvQCS4Z5IIwV-1" target="ndMLHOAJyYuL2xWaeHbx-78">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="JfmD_gjltNVFwKiyb32D-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.004;entryY=0.696;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="ndMLHOAJyYuL2xWaeHbx-78">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="757" y="360" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="780" y="360" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
