@@ -514,7 +514,7 @@
         <mxCell id="JfmD_gjltNVFwKiyb32D-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="755" y="359" as="sourcePoint" />
-            <mxPoint x="798" y="359" as="targetPoint" />
+            <mxPoint x="800" y="359" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
