@@ -889,11 +889,6 @@
         <mxCell id="JfmD_gjltNVFwKiyb32D-140" value="" style="whiteSpace=wrap;html=1;aspect=fixed;container=0;strokeWidth=2;fillColor=#b1ddf0;strokeColor=#000000;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="JfmD_gjltNVFwKiyb32D-119">
           <mxGeometry x="120" y="40" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JfmD_gjltNVFwKiyb32D-187" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=2;endArrow=none;endFill=0;startArrow=blockThin;startFill=1;" edge="1" parent="1" source="JfmD_gjltNVFwKiyb32D-141">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="526.9411764705883" y="1194.8823960248162" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="JfmD_gjltNVFwKiyb32D-141" value="&lt;font size=&quot;1&quot; color=&quot;#009999&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;Spatial Encoder&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="460.59999999999997" y="1252.16" width="131.62" height="30" as="geometry" />
         </mxCell>
@@ -931,6 +926,12 @@
         </mxCell>
         <mxCell id="JfmD_gjltNVFwKiyb32D-172" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=90;size=0.46483428596047816;strokeWidth=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="275.53" y="1065.42" width="20" height="266.93" as="geometry" />
+        </mxCell>
+        <mxCell id="JfmD_gjltNVFwKiyb32D-188" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;endArrow=blockThin;endFill=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="535.7647058823529" y="1154.1764921300553" as="targetPoint" />
+            <mxPoint x="536" y="1123" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
