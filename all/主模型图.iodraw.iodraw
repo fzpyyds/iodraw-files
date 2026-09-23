@@ -920,7 +920,7 @@
           <mxGeometry x="679.2189655172414" y="1172.5195384615386" width="89.37931034482757" height="38.47692307692308" as="geometry" />
         </mxCell>
         <mxCell id="JfmD_gjltNVFwKiyb32D-97" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;FFN&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F7EDFF;strokeColor=#6D49FC;glass=0;strokeWidth=2;fillStyle=solid;container=0;" vertex="1" parent="1">
-          <mxGeometry x="681.1489655172413" y="1229.8456923076924" width="89.37931034482757" height="38.47692307692308" as="geometry" />
+          <mxGeometry x="681.1489655172413" y="1228" width="89.37931034482757" height="38.47692307692308" as="geometry" />
         </mxCell>
         <mxCell id="JfmD_gjltNVFwKiyb32D-98" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Reverse SRGA&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F7EDFF;strokeColor=#6D49FC;glass=0;strokeWidth=2;fillStyle=solid;container=0;" vertex="1" parent="1">
           <mxGeometry x="816.9989655172413" y="1228" width="89.37931034482757" height="38.47692307692308" as="geometry" />
