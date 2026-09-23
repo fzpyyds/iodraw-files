@@ -967,7 +967,7 @@
           <mxGeometry x="62.88168987341788" y="1310.6100008921403" width="45.53496835443035" height="24.122580069586952" as="geometry" />
         </mxCell>
         <mxCell id="JfmD_gjltNVFwKiyb32D-116" value="&lt;p style=&quot;line-height: 80%;&quot;&gt;&lt;font face=&quot;Tahoma&quot; style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; Learnable&amp;nbsp; &amp;nbsp;ID Dictionary&lt;/font&gt;&lt;/p&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=1;textOpacity=90;" vertex="1" parent="1">
-          <mxGeometry x="42.28" y="1086.24" width="87.53" height="30.34" as="geometry" />
+          <mxGeometry x="42.28" y="1086.24" width="87.53" height="39.76" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
