@@ -774,7 +774,7 @@
             <mxPoint x="145.41" y="1175" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JfmD_gjltNVFwKiyb32D-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JfmD_gjltNVFwKiyb32D-118">
+        <mxCell id="JfmD_gjltNVFwKiyb32D-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=blockThin;endFill=1;" edge="1" parent="1" source="JfmD_gjltNVFwKiyb32D-118">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="662.9412195542279" y="1302.4117647058824" as="targetPoint" />
           </mxGeometry>
