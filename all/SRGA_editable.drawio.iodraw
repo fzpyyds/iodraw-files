@@ -815,7 +815,7 @@
           <mxGeometry x="1330" y="627" width="272" height="51" as="geometry" />
         </mxCell>
         <mxCell id="e220" value="⊕ LN → FFN → ⊕ LN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=26;fontColor=#171128;fontStyle=0;spacing=0;" parent="1" vertex="1">
-          <mxGeometry x="1319" y="558" width="267" height="51" as="geometry" />
+          <mxGeometry x="1330" y="628.5" width="267" height="51" as="geometry" />
         </mxCell>
         <mxCell id="e222" value="" style="rounded=1;absoluteArcSize=1;arcSize=10;html=1;whiteSpace=wrap;fillColor=#55BABC;strokeColor=#009B9E;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1619" y="636" width="17" height="32" as="geometry" />
