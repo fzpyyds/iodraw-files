@@ -793,7 +793,7 @@
           <mxGeometry x="1082" y="617" width="54" height="54" as="geometry" />
         </mxCell>
         <mxCell id="e209" value="A&lt;sub&gt;r&lt;/sub&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=30;fontColor=#060B50;fontStyle=2;spacing=0;" parent="1" vertex="1">
-          <mxGeometry x="1076" y="589" width="66" height="41" as="geometry" />
+          <mxGeometry x="1076" y="576" width="66" height="41" as="geometry" />
         </mxCell>
         <mxCell id="e210" style="edgeStyle=none;html=1;rounded=0;strokeColor=#087BFF;strokeWidth=3.2;endArrow=block;endFill=1;endSize=9;exitX=1.0;exitY=0.5;exitPerimeter=0;" parent="1" source="rsoft" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -820,7 +820,7 @@
             <Array as="points">
               <mxPoint x="715" y="700" />
               <mxPoint x="940" y="700" />
-              <mxPoint x="1182" y="718" />
+              <mxPoint x="1182" y="700" />
             </Array>
           </mxGeometry>
         </mxCell>
