@@ -378,7 +378,7 @@
           <mxGeometry x="403" y="420" width="146" height="70" as="geometry" />
         </mxCell>
         <mxCell id="e111" value="" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=28;fontColor=#111111;fontStyle=0;spacing=0;" parent="1" vertex="1">
-          <mxGeometry x="403" y="420" width="157" height="70" as="geometry" />
+          <mxGeometry x="403" y="420" width="169" height="70" as="geometry" />
         </mxCell>
         <mxCell id="e112" value="SPE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=30;fontColor=#111111;fontStyle=1;spacing=0;" parent="1" vertex="1">
           <mxGeometry x="403" y="424" width="146" height="35" as="geometry" />
