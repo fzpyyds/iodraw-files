@@ -900,6 +900,12 @@
         <mxCell id="e243" value="LayerNorm" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=28;fontColor=#101625;fontStyle=0;spacing=0;" parent="1" vertex="1">
           <mxGeometry x="1392" y="817" width="155" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="E2oWnB_ugQODVrH2iLJx-2" style="edgeStyle=none;html=1;rounded=0;strokeColor=#101625;strokeWidth=2.3;endArrow=block;endFill=1;endSize=9;entryX=0.0;entryY=0.5;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1050" y="656" as="sourcePoint" />
+            <mxPoint x="1132" y="656" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
