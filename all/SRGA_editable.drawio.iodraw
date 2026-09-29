@@ -443,6 +443,9 @@
         <mxCell id="e117" value="" style="rounded=1;absoluteArcSize=1;arcSize=10;html=1;whiteSpace=wrap;fillColor=#DBF8D0;strokeColor=#00A713;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="631" y="402" width="22" height="37" as="geometry" />
         </mxCell>
+        <mxCell id="ZpcLcJKGB6mr5lT26aiJ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="e118" target="e122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="e118" value="" style="rounded=1;absoluteArcSize=1;arcSize=10;html=1;whiteSpace=wrap;fillColor=#DBF8D0;strokeColor=#00A713;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="655" y="402" width="22" height="37" as="geometry" />
         </mxCell>
@@ -502,15 +505,6 @@
         </mxCell>
         <mxCell id="e136" value="β" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=32;fontColor=#111111;fontStyle=0;spacing=0;" parent="1" vertex="1">
           <mxGeometry x="994" y="460" width="42" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="e137" style="edgeStyle=none;html=1;rounded=0;strokeColor=#00A713;strokeWidth=3.2;endArrow=block;endFill=1;endSize=9;entryX=0.0;entryY=0.4772727272727273;entryPerimeter=0;" parent="1" target="trans" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="690" y="420" as="sourcePoint" />
-            <mxPoint x="710" y="487" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="690" y="487" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="e138" style="edgeStyle=none;html=1;rounded=0;strokeColor=#00A713;strokeWidth=3.2;endArrow=block;endFill=1;endSize=9;exitX=1;exitY=0.5;entryX=0.0;entryY=0.5306122448979592;entryPerimeter=0;exitDx=0;exitDy=0;" parent="1" source="e131" target="wsr" edge="1">
           <mxGeometry relative="1" as="geometry">
