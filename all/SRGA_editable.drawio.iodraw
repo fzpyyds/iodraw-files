@@ -529,7 +529,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="e141" value="B&lt;sub&gt;r&lt;/sub&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=32;fontColor=#060B50;fontStyle=3;spacing=0;" parent="1" vertex="1">
-          <mxGeometry x="995" y="502" width="50" height="40" as="geometry" />
+          <mxGeometry x="995" y="500" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fpost" value="" style="rounded=1;absoluteArcSize=1;arcSize=10;html=1;whiteSpace=wrap;fillColor=#EBD9FF;strokeColor=#862EFF;strokeWidth=1.8;" parent="1" vertex="1">
           <mxGeometry x="1353" y="194" width="276" height="51" as="geometry" />
