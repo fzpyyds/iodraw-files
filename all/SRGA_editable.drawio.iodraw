@@ -849,7 +849,7 @@
         <mxCell id="e230" value="α" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=30;fontColor=#111111;fontStyle=2;spacing=0;" parent="1" vertex="1">
           <mxGeometry x="1695" y="650" width="62" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="e231" style="edgeStyle=none;html=1;rounded=0;strokeColor=#087BFF;strokeWidth=3.2;endArrow=block;endFill=1;endSize=9;entryX=0.0;entryY=0.4861111111111111;entryPerimeter=0;" parent="1" target="gate" edge="1">
+        <mxCell id="e231" style="edgeStyle=none;html=1;rounded=0;strokeColor=#087BFF;strokeWidth=3.2;endArrow=block;endFill=1;endSize=9;entryX=0.0;entryY=0.4861111111111111;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="gate" edge="1" source="e224">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1679" y="648" as="sourcePoint" />
             <mxPoint x="1695" y="648" as="targetPoint" />
