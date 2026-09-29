@@ -930,7 +930,7 @@
             <mxPoint x="1148" y="237" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZpcLcJKGB6mr5lT26aiJ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.002;entryY=0.386;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3.2;strokeColor=#087BFF;" edge="1" parent="1" source="e18" target="forward-container">
+        <mxCell id="ZpcLcJKGB6mr5lT26aiJ-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.002;entryY=0.386;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3.2;strokeColor=#087BFF;endArrow=block;endFill=1;" edge="1" parent="1" source="e18" target="forward-container">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
