@@ -807,15 +807,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="e215" style="edgeStyle=none;html=1;rounded=0;strokeColor=#101625;strokeWidth=2.3;endArrow=block;endFill=1;endSize=9;exitX=1.0;exitY=0.5;exitPerimeter=0;entryX=0.5;entryY=1.0;entryPerimeter=0;" parent="1" source="multiply" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1050" y="657" as="sourcePoint" />
-            <mxPoint x="1186" y="655" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1186" y="630" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="e216" style="edgeStyle=none;html=1;rounded=0;strokeColor=#101625;strokeWidth=2.3;endArrow=block;endFill=1;endSize=9;exitX=1.0;exitY=0.5;exitPerimeter=0;entryX=0.0;entryY=0.4861878453038674;entryPerimeter=0;" parent="1" source="extrap-add" target="extrap-panel" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1208" y="600" as="sourcePoint" />
