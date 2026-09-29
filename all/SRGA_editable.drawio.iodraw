@@ -467,9 +467,6 @@
         <mxCell id="e122" value="&lt;i&gt;W&lt;/i&gt;&lt;sub&gt;s&lt;/sub&gt;&lt;sup&gt;f&lt;/sup&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=31;fontColor=#111111;fontStyle=0;spacing=0;" parent="1" vertex="1">
           <mxGeometry x="721" y="322" width="84" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="e123" value="256 → 16" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=22;fontColor=#060B50;fontStyle=0;spacing=0;" parent="1" vertex="1">
-          <mxGeometry x="721" y="381" width="85" height="27" as="geometry" />
-        </mxCell>
         <mxCell id="betaf" value="" style="ellipse;html=1;whiteSpace=wrap;fillColor=#FFFFFF;strokeColor=#15151D;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="856" y="326" width="42" height="42" as="geometry" />
         </mxCell>
