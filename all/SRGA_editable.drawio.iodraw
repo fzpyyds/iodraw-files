@@ -131,9 +131,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="427" y="293" as="sourcePoint" />
             <mxPoint x="501" y="315" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="463" y="319" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="e41" value="" style="rounded=0;html=1;whiteSpace=wrap;fillColor=#09ABF2;strokeColor=#37A6ED;strokeWidth=0.6;" parent="1" vertex="1">
