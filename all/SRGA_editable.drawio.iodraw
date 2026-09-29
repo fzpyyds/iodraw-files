@@ -514,10 +514,10 @@
           <mxGeometry x="852" y="510" width="100" height="27" as="geometry" />
         </mxCell>
         <mxCell id="betar" value="" style="ellipse;html=1;whiteSpace=wrap;fillColor=#FFFFFF;strokeColor=#15151D;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="994" y="465" width="42" height="42" as="geometry" />
+          <mxGeometry x="994" y="464" width="42" height="42" as="geometry" />
         </mxCell>
         <mxCell id="e136" value="β" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=32;fontColor=#111111;fontStyle=0;spacing=0;" parent="1" vertex="1">
-          <mxGeometry x="994" y="461" width="42" height="42" as="geometry" />
+          <mxGeometry x="994" y="460" width="42" height="42" as="geometry" />
         </mxCell>
         <mxCell id="e137" style="edgeStyle=none;html=1;rounded=0;strokeColor=#00A713;strokeWidth=3.2;endArrow=block;endFill=1;endSize=9;entryX=0.0;entryY=0.4772727272727273;entryPerimeter=0;" parent="1" target="trans" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -534,10 +534,10 @@
             <mxPoint x="860" y="487" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e139" style="edgeStyle=none;html=1;rounded=0;strokeColor=#00A713;strokeWidth=3.2;endArrow=block;endFill=1;endSize=9;exitX=1;exitY=0.5;entryX=0.0;entryY=0.5;entryPerimeter=0;exitDx=0;exitDy=0;" parent="1" source="e133" target="betar" edge="1">
+        <mxCell id="e139" style="edgeStyle=none;html=1;rounded=0;strokeColor=#00A713;strokeWidth=3.2;endArrow=block;endFill=1;endSize=9;exitX=1;exitY=0.5;entryX=0.0;entryY=0.5;entryPerimeter=0;exitDx=0;exitDy=0;" parent="1" target="betar" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="982" y="487" as="sourcePoint" />
-            <mxPoint x="994" y="487" as="targetPoint" />
+            <mxPoint x="959" y="484.5" as="sourcePoint" />
+            <mxPoint x="994" y="486" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="e140" style="edgeStyle=none;html=1;rounded=0;strokeColor=#00A713;strokeWidth=3.2;endArrow=block;endFill=1;endSize=9;exitX=0.5;exitY=1.0;exitPerimeter=0;entryX=0.5;entryY=0.0;entryPerimeter=0;" parent="1" source="betar" target="rplus" edge="1">
