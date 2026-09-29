@@ -12,7 +12,7 @@
         </mxCell>
         <mxCell id="e169" style="edgeStyle=none;html=1;rounded=0;strokeColor=#070F55;strokeWidth=2.3;endArrow=block;endFill=1;endSize=9;entryX=0.5154639175257731;entryY=0.0;entryPerimeter=0;" parent="1" target="last-valid" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1675" y="389" as="sourcePoint" />
+            <mxPoint x="1675" y="372" as="sourcePoint" />
             <mxPoint x="598" y="550" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1675" y="498" />
