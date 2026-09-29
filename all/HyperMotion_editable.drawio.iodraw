@@ -300,7 +300,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="E2oWnB_ugQODVrH2iLJx-3" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="E2oWnB_ugQODVrH2iLJx-3" value="" style="group;aspect=fixed;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="2" y="23" width="1761" height="452" as="geometry" />
         </mxCell>
         <mxCell id="hypermotion" value="" style="rounded=1;absoluteArcSize=1;arcSize=10;html=1;whiteSpace=wrap;fillColor=#FFFFFF;strokeColor=#0631AA;strokeWidth=2.8;" parent="E2oWnB_ugQODVrH2iLJx-3" vertex="1">
