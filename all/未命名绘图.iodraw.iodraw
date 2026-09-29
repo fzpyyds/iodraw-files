@@ -40,11 +40,6 @@
         <mxCell id="HAhpa7UCgdAqM9rWg8Xl-26" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="405" y="248" width="50" height="30" as="geometry" />
         </mxCell>
-        <UserObject label="&lt;m:oMath xmlns:m=&quot;http://schemas.openxmlformats.org/officeDocument/2006/math&quot; xmlns:mml=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&#xa;  &lt;m:r&gt;&#xa;    &lt;m:rPr&gt;&#xa;      &lt;m:sty m:val=&quot;p&quot; /&gt;&#xa;    &lt;/m:rPr&gt;&#xa;    &lt;m:t&gt;SA&lt;/m:t&gt;&#xa;  &lt;/m:r&gt;&#xa;&lt;/m:oMath&gt;" link="&lt;m:oMath xmlns:m=&quot;http://schemas.openxmlformats.org/officeDocument/2006/math&quot; xmlns:mml=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&#xa;  &lt;m:r&gt;&#xa;    &lt;m:rPr&gt;&#xa;      &lt;m:sty m:val=&quot;p&quot; /&gt;&#xa;    &lt;/m:rPr&gt;&#xa;    &lt;m:t&gt;SA&lt;/m:t&gt;&#xa;  &lt;/m:r&gt;&#xa;&lt;/m:oMath&gt;" id="HAhpa7UCgdAqM9rWg8Xl-27">
-          <mxCell style="text;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-            <mxGeometry x="560" y="260" width="560" height="150" as="geometry" />
-          </mxCell>
-        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
