@@ -884,7 +884,7 @@
           <mxGeometry x="1604.3480976717774" y="315.56407079646016" width="115.38898353208405" height="32.70902654867257" as="geometry" />
         </mxCell>
         <mxCell id="E2oWnB_ugQODVrH2iLJx-4" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="219" y="144.75" width="20" height="253.25" as="geometry" />
+          <mxGeometry x="219" y="156" width="20" height="242" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
