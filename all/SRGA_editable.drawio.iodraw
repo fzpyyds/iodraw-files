@@ -814,10 +814,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rpost" value="" style="rounded=1;absoluteArcSize=1;arcSize=10;html=1;whiteSpace=wrap;fillColor=#EBD9FF;strokeColor=#862EFF;strokeWidth=1.8;" parent="1" vertex="1">
-          <mxGeometry x="1276" y="623" width="272" height="51" as="geometry" />
+          <mxGeometry x="1258" y="623" width="272" height="51" as="geometry" />
         </mxCell>
         <mxCell id="e220" value="⊕ LN → FFN → ⊕ LN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=26;fontColor=#171128;fontStyle=0;spacing=0;" parent="1" vertex="1">
-          <mxGeometry x="1276" y="624.5" width="267" height="51" as="geometry" />
+          <mxGeometry x="1258" y="624.5" width="267" height="51" as="geometry" />
         </mxCell>
         <mxCell id="e222" value="" style="rounded=1;absoluteArcSize=1;arcSize=10;html=1;whiteSpace=wrap;fillColor=#55BABC;strokeColor=#009B9E;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1593" y="632" width="17" height="32" as="geometry" />
@@ -861,7 +861,7 @@
             <mxPoint x="1726" y="703" as="targetPoint" />
             <Array as="points">
               <mxPoint x="230" y="770" />
-              <mxPoint x="1726" y="761" />
+              <mxPoint x="1712" y="761" />
             </Array>
           </mxGeometry>
         </mxCell>
