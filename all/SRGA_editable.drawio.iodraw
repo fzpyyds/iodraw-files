@@ -817,12 +817,6 @@
         <mxCell id="e220" value="⊕ LN → FFN → ⊕ LN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=26;fontColor=#171128;fontStyle=0;spacing=0;" parent="1" vertex="1">
           <mxGeometry x="1330" y="627" width="267" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="e221" style="edgeStyle=none;html=1;rounded=0;strokeColor=#087BFF;strokeWidth=3.2;endArrow=block;endFill=1;endSize=9;exitX=1.0;exitY=0.5454545454545454;exitPerimeter=0;entryX=0.0;entryY=0.47058823529411764;entryPerimeter=0;" parent="1" source="rwo" target="rpost" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1295" y="665" as="sourcePoint" />
-            <mxPoint x="1357" y="665" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="e222" value="" style="rounded=1;absoluteArcSize=1;arcSize=10;html=1;whiteSpace=wrap;fillColor=#55BABC;strokeColor=#009B9E;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1619" y="636" width="17" height="32" as="geometry" />
         </mxCell>
