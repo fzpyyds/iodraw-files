@@ -8,7 +8,7 @@
           <mxGeometry x="256" y="23" width="1499" height="410.68" as="geometry" />
         </mxCell>
         <mxCell id="extrap-panel" value="" style="rounded=1;absoluteArcSize=1;arcSize=10;html=1;whiteSpace=wrap;fillColor=#E4F7E8;strokeColor=#6ACF7A;strokeWidth=1.8;" parent="1" vertex="1">
-          <mxGeometry x="1300" y="512" width="265" height="181" as="geometry" />
+          <mxGeometry x="1300" y="512" width="280" height="181" as="geometry" />
         </mxCell>
         <mxCell id="legend" value="" style="rounded=1;absoluteArcSize=1;arcSize=10;html=1;whiteSpace=wrap;fillColor=#FFFFFF;strokeColor=#172440;strokeWidth=1.6;dashed=1;dashPattern=5 3;" parent="1" vertex="1">
           <mxGeometry x="203" y="804" width="1370" height="66" as="geometry" />
@@ -225,6 +225,9 @@
         <mxCell id="e223" value="b̂" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=36;fontColor=#101625;fontStyle=3;spacing=0;" parent="1" vertex="1">
           <mxGeometry x="1506" y="523" width="35" height="46" as="geometry" />
         </mxCell>
+        <mxCell id="e224" value="Comp. boxes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=30;fontColor=#101625;fontStyle=1;spacing=0;" parent="1" vertex="1">
+          <mxGeometry x="1321" y="650" width="238" height="39" as="geometry" />
+        </mxCell>
         <mxCell id="e225" style="edgeStyle=none;html=1;rounded=0;strokeColor=#101625;strokeWidth=2.3;endArrow=block;endFill=1;endSize=9;exitX=1.0;exitY=0.5966850828729282;exitPerimeter=0;" parent="1" source="extrap-panel" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1580" y="620" as="sourcePoint" />
@@ -306,7 +309,7 @@
         <mxCell id="e7" value="HyperMotion" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=48;fontColor=#070F55;fontStyle=1;spacing=0;" parent="1" vertex="1">
           <mxGeometry x="769.6768881317433" y="23" width="365.24701873935265" height="57.240796460176995" as="geometry" />
         </mxCell>
-        <mxCell id="e9" value="DiagSSM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=34;fontColor=#101625;fontStyle=1;spacing=0;" parent="1" vertex="1">
+        <mxCell id="e9" value="Diag. SSM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=34;fontColor=#101625;fontStyle=1;spacing=0;" parent="1" vertex="1">
           <mxGeometry x="1141.8835888699602" y="107.94982300884956" width="153.54911981828508" height="39.06911504424779" as="geometry" />
         </mxCell>
         <mxCell id="e10" value="× 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=35;fontColor=#101625;fontStyle=1;spacing=0;" parent="1" vertex="1">
