@@ -204,9 +204,6 @@
             <mxPoint x="1300" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e217" value="Extrap." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=34;fontColor=#101625;fontStyle=1;spacing=0;" parent="1" vertex="1">
-          <mxGeometry x="1306" y="515" width="118" height="46" as="geometry" />
-        </mxCell>
         <mxCell id="e218" value="" style="rounded=1;absoluteArcSize=1;arcSize=10;html=1;whiteSpace=wrap;fillColor=none;strokeColor=#070F55;strokeWidth=2.5;" parent="1" vertex="1">
           <mxGeometry x="1358" y="579" width="55" height="59" as="geometry" />
         </mxCell>
