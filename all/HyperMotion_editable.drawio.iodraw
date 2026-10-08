@@ -692,15 +692,11 @@
             <mxPoint x="1065.5633162975582" y="294.2095575221239" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e122" style="edgeStyle=none;html=1;rounded=0;strokeColor=#101625;strokeWidth=2.3;endArrow=block;endFill=1;endSize=9;exitX=1.0;exitY=0.4888888888888889;exitPerimeter=0;entryX=0.0;entryY=0.484375;entryPerimeter=0;" parent="1" source="collab-add" target="h-prev" edge="1">
+        <mxCell id="e122" style="edgeStyle=none;html=1;rounded=0;strokeColor=#101625;strokeWidth=2.3;endArrow=block;endFill=1;endSize=9;exitX=1.0;exitY=0.4888888888888889;exitPerimeter=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="collab-add" target="e126" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1106.4491766042022" y="295.1181415929204" as="sourcePoint" />
             <mxPoint x="1159.1465076660988" y="268.769203539823" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1155" y="327" />
-              <mxPoint x="1148" y="289" />
-              <mxPoint x="1171" y="307" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="e123" value="x&lt;sub&gt;t−1&lt;/sub&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=29;fontColor=#101625;fontStyle=3;spacing=0;" parent="1" vertex="1">
