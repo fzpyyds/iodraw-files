@@ -232,7 +232,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="e226" value="SRGA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=34;fontColor=#101625;fontStyle=1;spacing=0;" parent="1" vertex="1">
-          <mxGeometry x="1640" y="593" width="104" height="48" as="geometry" />
+          <mxGeometry x="1641" y="593" width="103" height="48" as="geometry" />
         </mxCell>
         <mxCell id="e227" value="" style="rounded=1;absoluteArcSize=1;arcSize=10;html=1;whiteSpace=wrap;fillColor=#288BCD;strokeColor=#165B89;strokeWidth=1.8;" parent="1" vertex="1">
           <mxGeometry x="239" y="817" width="39" height="39" as="geometry" />
@@ -306,7 +306,7 @@
         <mxCell id="e7" value="HyperMotion" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=48;fontColor=#070F55;fontStyle=1;spacing=0;" parent="1" vertex="1">
           <mxGeometry x="769.6768881317433" y="23" width="365.24701873935265" height="57.240796460176995" as="geometry" />
         </mxCell>
-        <mxCell id="e9" value="Diag. SSM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=34;fontColor=#101625;fontStyle=1;spacing=0;" parent="1" vertex="1">
+        <mxCell id="e9" value="DiagSSM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=34;fontColor=#101625;fontStyle=1;spacing=0;" parent="1" vertex="1">
           <mxGeometry x="1141.8835888699602" y="107.94982300884956" width="153.54911981828508" height="39.06911504424779" as="geometry" />
         </mxCell>
         <mxCell id="e10" value="× 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=35;fontColor=#101625;fontStyle=1;spacing=0;" parent="1" vertex="1">
