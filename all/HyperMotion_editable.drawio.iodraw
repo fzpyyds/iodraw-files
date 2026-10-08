@@ -225,14 +225,14 @@
         <mxCell id="e223" value="b̂" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=36;fontColor=#101625;fontStyle=3;spacing=0;" parent="1" vertex="1">
           <mxGeometry x="1506" y="523" width="35" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="e225" style="edgeStyle=none;html=1;rounded=0;strokeColor=#101625;strokeWidth=2.3;endArrow=block;endFill=1;endSize=9;exitX=1.0;exitY=0.5966850828729282;exitPerimeter=0;" parent="1" source="extrap-panel" edge="1">
+        <mxCell id="e225" style="edgeStyle=none;html=1;rounded=0;strokeColor=#101625;strokeWidth=2.3;endArrow=block;endFill=1;endSize=9;exitX=1.0;exitY=0.5966850828729282;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1580" y="620" as="sourcePoint" />
-            <mxPoint x="1637" y="620" as="targetPoint" />
+            <mxPoint x="1565" y="606" as="sourcePoint" />
+            <mxPoint x="1637" y="606" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="e226" value="SRGA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=34;fontColor=#101625;fontStyle=1;spacing=0;" parent="1" vertex="1">
-          <mxGeometry x="1641" y="593" width="103" height="48" as="geometry" />
+          <mxGeometry x="1641" y="579" width="103" height="48" as="geometry" />
         </mxCell>
         <mxCell id="e227" value="" style="rounded=1;absoluteArcSize=1;arcSize=10;html=1;whiteSpace=wrap;fillColor=#288BCD;strokeColor=#165B89;strokeWidth=1.8;" parent="1" vertex="1">
           <mxGeometry x="239" y="817" width="39" height="39" as="geometry" />
