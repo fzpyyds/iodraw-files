@@ -8,7 +8,7 @@
           <mxGeometry x="256" y="23" width="1499" height="410.68" as="geometry" />
         </mxCell>
         <mxCell id="extrap-panel" value="" style="rounded=1;absoluteArcSize=1;arcSize=10;html=1;whiteSpace=wrap;fillColor=#E4F7E8;strokeColor=#6ACF7A;strokeWidth=1.8;" parent="1" vertex="1">
-          <mxGeometry x="1300" y="512" width="280" height="181" as="geometry" />
+          <mxGeometry x="1300" y="512" width="265" height="181" as="geometry" />
         </mxCell>
         <mxCell id="legend" value="" style="rounded=1;absoluteArcSize=1;arcSize=10;html=1;whiteSpace=wrap;fillColor=#FFFFFF;strokeColor=#172440;strokeWidth=1.6;dashed=1;dashPattern=5 3;" parent="1" vertex="1">
           <mxGeometry x="203" y="804" width="1370" height="66" as="geometry" />
