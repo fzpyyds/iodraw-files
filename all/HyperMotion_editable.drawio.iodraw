@@ -232,7 +232,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="e226" value="SRGA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=34;fontColor=#101625;fontStyle=1;spacing=0;" parent="1" vertex="1">
-          <mxGeometry x="1641" y="593" width="103" height="48" as="geometry" />
+          <mxGeometry x="1640" y="593" width="104" height="48" as="geometry" />
         </mxCell>
         <mxCell id="e227" value="" style="rounded=1;absoluteArcSize=1;arcSize=10;html=1;whiteSpace=wrap;fillColor=#288BCD;strokeColor=#165B89;strokeWidth=1.8;" parent="1" vertex="1">
           <mxGeometry x="239" y="817" width="39" height="39" as="geometry" />
