@@ -225,9 +225,6 @@
         <mxCell id="e223" value="b̂" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=36;fontColor=#101625;fontStyle=3;spacing=0;" parent="1" vertex="1">
           <mxGeometry x="1506" y="523" width="35" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="e224" value="Comp. boxes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=30;fontColor=#101625;fontStyle=1;spacing=0;" parent="1" vertex="1">
-          <mxGeometry x="1321" y="650" width="238" height="39" as="geometry" />
-        </mxCell>
         <mxCell id="e225" style="edgeStyle=none;html=1;rounded=0;strokeColor=#101625;strokeWidth=2.3;endArrow=block;endFill=1;endSize=9;exitX=1.0;exitY=0.5966850828729282;exitPerimeter=0;" parent="1" source="extrap-panel" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1580" y="620" as="sourcePoint" />
