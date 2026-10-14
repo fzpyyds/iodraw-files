@@ -935,6 +935,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="SJB6CglgsIrTWJx4SbK5-1" value="Gate&lt;br&gt;&lt;i&gt;α&lt;sub&gt;l&lt;/sub&gt;&lt;/i&gt;" style="rounded=1;absoluteArcSize=1;arcSize=10;html=1;whiteSpace=wrap;fillColor=#FFE2BD;strokeColor=#FF5B19;strokeWidth=1.8;fontFamily=Times New Roman;fontSize=28;fontColor=#111111;align=center;verticalAlign=middle;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="1818" y="551.4000244140625" width="70" height="76" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
