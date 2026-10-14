@@ -796,7 +796,7 @@
         <mxCell id="e229" value="Gate" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=30;fontColor=#111111;fontStyle=0;spacing=0;" parent="1" vertex="1">
           <mxGeometry x="1663" y="644" width="62" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="e230" value="α" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=30;fontColor=#111111;fontStyle=2;spacing=0;" parent="1" vertex="1">
+        <mxCell id="e230" value="&lt;i style=&quot;font-size: 28px;&quot;&gt;α&lt;sub&gt;l&lt;/sub&gt;&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=30;fontColor=#111111;fontStyle=2;spacing=0;" parent="1" vertex="1">
           <mxGeometry x="1663" y="680" width="62" height="30" as="geometry" />
         </mxCell>
         <mxCell id="e231" style="edgeStyle=none;html=1;rounded=0;strokeColor=#087BFF;strokeWidth=3.2;endArrow=block;endFill=1;endSize=9;entryX=0.0;entryY=0.4861111111111111;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="e224" target="gate" edge="1">
